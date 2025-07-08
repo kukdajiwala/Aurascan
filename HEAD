@@ -1,6 +1,1 @@
-0000000000000000000000000000000000000000 09b9abc6eb19df8e2bb9862be58c267ee5f1b0ba mahjabeenkukdaj <44688666-mahjabeenkukdaj@users.noreply.replit.com> 1751832906 +0000	commit (initial): Initial commit
-09b9abc6eb19df8e2bb9862be58c267ee5f1b0ba 46faef14d759243b37de6d751c7f3ca7e4a6e35e mahjabeenkukdaj <44688666-mahjabeenkukdaj@users.noreply.replit.com> 1751833197 +0000	commit: Set up initial project structure and core components for the application
-46faef14d759243b37de6d751c7f3ca7e4a6e35e 66a05c7f1feb56fafba8d2cf35897d046fb75575 mahjabeenkukdaj <44688666-mahjabeenkukdaj@users.noreply.replit.com> 1751894846 +0000	commit: Enhance candidate assessment form and adds dashboard with analysis views
-66a05c7f1feb56fafba8d2cf35897d046fb75575 a604dcfd3b14b7e1d6d4c98cd72a13722adcdad7 mahjabeenkukdaj <44688666-mahjabeenkukdaj@users.noreply.replit.com> 1751895200 +0000	commit: Enhance the website's appearance with improved UI/UX design elements
-a604dcfd3b14b7e1d6d4c98cd72a13722adcdad7 920bf51bb84bcd541244642f01fa67d14c45cb41 mahjabeenkukdaj <44688666-mahjabeenkukdaj@users.noreply.replit.com> 1751895689 +0000	commit: Add voice recording and sentiment analysis to applicant assessments
-920bf51bb84bcd541244642f01fa67d14c45cb41 612e3f7e757d3ae9f655fd5b3d409e3238031c6b mahjabeenkukdaj <44688666-mahjabeenkukdaj@users.noreply.replit.com> 1751896667 +0000	commit: Enhance candidate evaluation with AI-powered resume and emotion analysis
+ref: refs/heads/main
